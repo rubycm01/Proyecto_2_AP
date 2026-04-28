@@ -18,10 +18,10 @@ Al analizar los promedios obtenidos mediante nuestra consulta SQL, observamos di
 Al observar la gráfica de Temperatura de la Estrella vs. Temperatura del Planeta, se nota un patrón: la gran mayoría de los planetas "habitables" (puntos azules) se agrupan en estrellas con temperaturas bajas, entre 2500 K y 4000 K (Enanas Rojas o tipo M). Hay muy pocos candidatos alrededor de estrellas similares al Sol (~5800 K).
 
 Esto no significa que no existan planetas habitables en estrellas como el Sol, sino que nuestras herramientas actuales facilitan encontrar planetas en estrellas frías por tres razones:
-1.  Contraste de tamaño: Un planeta pequeño bloquea mucha más luz en una estrella pequeña que en una grande, haciendo el tránsito más fácil de detectar.
-2.  Cercanía de la Zona Habitable: En las estrellas frías, la zona donde el agua puede ser líquida está muy cerca de la estrella. Esto hace que los planetas tengan órbitas de pocos días, permitiendo observar muchos tránsitos en poco tiempo.
-3.  Límites de Habitabilidad (Modelo de Kopparapu):Según los modelos de habitabilidad de Kopparapu, las estrellas frías emiten más energía en el infrarrojo. Esto afecta cómo la atmósfera del planeta atrapa el calor, moviendo los límites de la zona habitable mucho más cerca de la estrella en comparación con nuestro sistema solar.
+1.  Contraste de tamaño: Un planeta pequeño bloquea mucha más luz en una estrella pequeña que en una grande, haciendo el tránsito más fácil de detectar, un planeta terrestre transitando una enana roja bloquea una fracción mayor de luz que si transitara una estrella tipo Sol.
+2.  Cercanía de la Zona Habitable: a Zona de Habitabilidad (ZH) en estrellas frías está muy cerca de la estrella. Un planeta en la ZH de una enana roja completa su órbita en días o semanas, permitiendo observar múltiples tránsitos en poco tiempo. En una estrella como el Sol, tendríamos que esperar un año entre cada tránsito.
+3.  Límites de Habitabilidad: Según los modelos de Kopparapu et al. (2013), la ZH depende fuertemente del flujo estelar y del tipo de estrella. En estrellas frías, el pico de emisión es en el infrarrojo, y debido al albedo del hielo y la dispersión Rayleigh, los planetas en estas estrellas pueden retener calor de manera más eficiente. Nuestro filtro (200K - 320K) es una aproximación al "Hábito Conservador", pero en estrellas M, el límite interior de la ZH está más cerca debido a la interacción de la radiación con la atmósfera planetaria.
 
-#### 4. Conclusión Final
+#### 4. Conclusión 
 El análisis de los datos demuestra que estamos viviendo en una etapa de las Enanas Rojas. Aunque el filtro aisló más de 300 candidatos rocosos y templados, la tecnología actual (como Kepler y TESS) está optimizada para detectar estos mundos en estrellas pequeñas.
 
