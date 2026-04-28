@@ -20,7 +20,7 @@ Al observar la gráfica de Temperatura de la Estrella vs. Temperatura del Planet
 Esto no significa que no existan planetas habitables en estrellas como el Sol, sino que nuestras herramientas actuales facilitan encontrar planetas en estrellas frías por tres razones:
 1.  Contraste de tamaño: Un planeta pequeño bloquea mucha más luz en una estrella pequeña que en una grande, haciendo el tránsito más fácil de detectar.
 2.  Cercanía de la Zona Habitable: En las estrellas frías, la zona donde el agua puede ser líquida está muy cerca de la estrella. Esto hace que los planetas tengan órbitas de pocos días, permitiendo observar muchos tránsitos en poco tiempo.
-3.  Límites de Habitabilidad (Modelo de Kopparapu):Según los modelos climáticos de Kopparapu, las estrellas frías emiten más energía en el infrarrojo. Esto afecta cómo la atmósfera del planeta atrapa el calor, moviendo los límites de la zona habitable mucho más cerca de la estrella en comparación con nuestro sistema solar.
+3.  Límites de Habitabilidad (Modelo de Kopparapu):Según los modelos de habitabilidad de Kopparapu, las estrellas frías emiten más energía en el infrarrojo. Esto afecta cómo la atmósfera del planeta atrapa el calor, moviendo los límites de la zona habitable mucho más cerca de la estrella en comparación con nuestro sistema solar.
 
 #### 4. Conclusión Final
 El análisis de los datos demuestra que estamos viviendo en una etapa de las Enanas Rojas. Aunque el filtro aisló más de 300 candidatos rocosos y templados, la tecnología actual (como Kepler y TESS) está optimizada para detectar estos mundos en estrellas pequeñas.
